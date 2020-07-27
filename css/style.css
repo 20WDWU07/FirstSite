@@ -1,5 +1,5 @@
  /*css reset - to prevent user-agent's style (chrome, safari)*/
-/* use command and slash to comment */
+/* use command key and slash key as short cutt to comment */
 *{
   box-sizing: border-box;
   margin:0;
@@ -13,7 +13,9 @@ h1{
 h4{
   color:#fed021;
 }
+
 /* css selctors - tag, id, class */
+
 .anotherHeading1{
   /* color: red; /* color name */
   /* color: #FF0000; /* hex code */
@@ -53,6 +55,8 @@ h4{
   margin-left: 30px;
 
 }
+
+/* special effect on elements  */
 .cake:hover{
   border : 3px solid orange;
   padding: 10px;
